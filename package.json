@@ -1,0 +1,22 @@
+{
+  "name": "jl-sub-server",
+  "version": "0.2.0",
+  "description": "Pub/Sub stream server based on pub-sub, express and json-lines",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.houston.softwaregrp.net:andreas-weber/jl-sub-server.git"
+  },
+  "author": {
+    "name": "Tobias Wittwer",
+    "url": "https://github.com/twittwer"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-lines": "0.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-es": "^0.8.11"
+  }
+}
