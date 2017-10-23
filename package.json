@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.houston.softwaregrp.net:andreas-weber/jl-sub-server.git"
+    "url": "git@github.com:twittwer/jl-sub-server.git"
   },
   "author": {
     "name": "Tobias Wittwer",
