@@ -1,4 +1,4 @@
-## jl-sub-server
+# jl-sub-server
 
 > Pub/Sub stream server based on [pub-sub](https://github.com:twittwer/pub-sub), [express](https://github.com/expressjs/express) and [json-lines](https://github.com/thenativeweb/json-lines)
 
